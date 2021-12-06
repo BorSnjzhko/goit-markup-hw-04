@@ -265,7 +265,18 @@ img {
   margin-right: 30px;
 }
 
+.features-img {
+  margin-bottom: 30px;
+  padding: 20px 100px;
+  text-align: center;
 
+  background-color: var(--secondary-background-color);
+}
+
+.features-icon {
+  width: 70px;
+  height: 70px;
+}
 
 .features-title {
   margin-top: 0;
