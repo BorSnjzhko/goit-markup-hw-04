@@ -270,7 +270,7 @@ img {
   padding: 20px 100px;
   text-align: center;
 
-  background-color: var(--svg-color);
+  background-color: var(--team-background-color);
 }
 
 .features-icon {
