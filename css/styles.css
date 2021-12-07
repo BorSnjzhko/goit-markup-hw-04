@@ -707,6 +707,11 @@ background-position: center;
   margin-right: 10px;
 }
 
+.network-block {
+  padding-top: 12px;
+  margin-left: 70px;
+}
+
 .network-link {
   display: flex;
   justify-content: center;
