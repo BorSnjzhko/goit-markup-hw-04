@@ -189,7 +189,7 @@ img {
   margin-right: auto;
   margin-left: auto;
   max-width: 1600px;
-
+  text-align: center;
 
   background-color: var(--secondary-background-color);
   color: var(--basic-background-color);
