@@ -638,6 +638,7 @@ background-position: center;
 
 .address {
   width: calc((100% - 30px * 2) / 4);
+  margin-right: 70px;
 }
 
 
