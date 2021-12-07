@@ -638,7 +638,6 @@ background-position: center;
 
 .address {
   width: calc((100% - 30px * 2) / 4);
-  margin-right: 70px;
 }
 
 
@@ -744,6 +743,7 @@ background-position: center;
   display: inline-block;
   margin-bottom: 20px;
   font-family: Roboto;
+  font-weight: 700;
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
