@@ -711,21 +711,22 @@ img {
   fill: var(--additional-background-color);
 }
 
-/* .network-icon {
+.network-icon {
   width: 20px;
   height: 20px;
 
   fill: var(--svg-color);
-} */
+} 
 
 .network-title {
-  /* margin-top: 0; */
   display: inline-block;
   margin-bottom: 20px;
   font-family: Roboto;
   font-size: 14px;
   line-height: 1.14;
   text-transform: uppercase;
+
+  color:var(--basic-background-color);
 }
 
 
