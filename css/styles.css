@@ -489,10 +489,18 @@ background-position: center;
   height: 90px;
 }
 
-.clients-link:hover .clients-icon,
-.clients-link:focus .clients-icon {
-  fill: var(--accent-color);
+.clients-link:hover,
+.clients-link:focus {
+  color: var(--accent-color);
 }
+
+.clients-icon:hover,
+.clients-icon:focus {
+  --color4: var(--accent-color);
+}
+
+
+
 
 .clients-icon {
   width: 44px;
