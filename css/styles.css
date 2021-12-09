@@ -426,12 +426,13 @@ background-position: center;
 
 .social-link:hover,
 .social-link:focus {
-  background-color: var(--accent-color);
+
+  background-color: var(--basic-background-color);
 }
 
 .social-link:hover .social-icon,
 .social-link:focus .social-icon {
-  fill: var(--primary-bg-color);
+ background-color: var(--basic-background-color);
 }
 
 .social-icon,
@@ -475,6 +476,7 @@ background-position: center;
 .clients-item:hover,
 .clients-item:focus {
   border-color: var(--accent-color);
+  background-color: var(--basic-background-color);
 }
 
 .clients-item:not(:last-child) {
@@ -492,6 +494,7 @@ background-position: center;
 .clients-link:hover,
 .clients-link:focus {
   color: var(--accent-color);
+  background-color: var(--basic-background-color);
 }
 
 .clients-icon:hover,
@@ -549,6 +552,7 @@ background-position: center;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
   background-color: var(--accent-color);
   color: var(--basic-background-color);
+  
 
   cursor: pointer;
 }
@@ -691,6 +695,7 @@ background-position: center;
 .contacts-footer .link:hover,
 .contacts-footer .link:focus {
   color: var(--accent-color);
+  background-color: var(--basic-background-color);
 }
 
 .contacts-footer .link:last-child {
@@ -730,12 +735,13 @@ background-position: center;
 
 .network-link:hover,
 .network-link:focus {
-  background-color: var(--accent-color);
+  background-color: var(--basic-background-color);
 }
 
 .network-link:hover .network-icon,
 .network-link:focus .network-icon {
   fill: var(--additional-background-color);
+
 }
 
 .network-icon {
