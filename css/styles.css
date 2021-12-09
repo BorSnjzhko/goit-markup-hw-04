@@ -399,8 +399,7 @@ background-position: center;
 
 .team-text {
   margin-top: 0;
-  margin-bottom: 16;
-
+  margin-bottom: 16px;
   font-size: 16px;
   line-height: 1.18;
 }
