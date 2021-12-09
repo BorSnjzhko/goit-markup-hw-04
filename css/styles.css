@@ -494,11 +494,13 @@ background-position: center;
 .clients-item .clients-link:hover,
 .clients-item .clients-link:focus {
   color: var(--accent-color);
+  background-color: var(--accent-color);
 }
 
 .clients-item .clients-icon:hover,
 .clients-item .clients-icon:focus {
   --color4: var(--accent-color);
+  background-color: var(--accent-color);
 }
 
 
