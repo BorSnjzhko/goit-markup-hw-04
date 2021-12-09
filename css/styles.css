@@ -491,8 +491,8 @@ background-position: center;
 
 }
 
-.clients-item .clients-link:hover,
-.clients-item .clients-link:focus {
+.clients-item, .clients-link:hover,
+.clients-item, .clients-link:focus {
   color: var(--accent-color);
 }
 
