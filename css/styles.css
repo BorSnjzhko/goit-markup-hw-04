@@ -486,10 +486,13 @@ background-position: center;
   align-items: center;
   width: 170px;
   height: 90px;
+
+
+
 }
 
-.clients-link:hover,
-.clients-link:focus {
+.clients-item .clients-link:hover,
+.clients-item .clients-link:focus {
   color: var(--accent-color);
 }
 
