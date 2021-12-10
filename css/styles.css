@@ -741,8 +741,7 @@ background-position: center;
 .network-icon {
   width: 20px;
   height: 20px;
-
-  fill: var(--logo-footer-color);
+  --color4: var(--logo-footer-color);
 } 
 
 .network-title {
