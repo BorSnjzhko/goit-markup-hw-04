@@ -505,8 +505,6 @@ background-position: center;
 
 
 .clients-icon {
-  width: 44px;
-  height: 49px;
   fill: var(--svg-color);
 }
 
@@ -744,7 +742,7 @@ background-position: center;
   width: 20px;
   height: 20px;
 
-  fill: var(--svg-color);
+  fill: var(--logo-footer-color);
 } 
 
 .network-title {
