@@ -430,7 +430,7 @@ background-position: center;
 
 .social-link:hover .social-icon,
 .social-link:focus .social-icon {
-  fill: var(--basic-background-color);
+  --color4: var(--basic-background-color);
 }
 
 .social-icon,
