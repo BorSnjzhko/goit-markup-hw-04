@@ -473,6 +473,7 @@ background-position: center;
 
 .clients-item:hover,
 .clients-item:focus {
+  --color4: var(--accent-color);
   border-color: var(--accent-color);
 }
 
