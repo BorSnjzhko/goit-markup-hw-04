@@ -276,10 +276,12 @@ background-position: center;
 }
 
 .features-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120px;
   margin-bottom: 30px;
-  padding: 20px 100px;
-  text-align: center;
-
+  border-radius: 4px;
   background-color: var(--team-background-color);
 }
 
