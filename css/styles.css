@@ -646,7 +646,7 @@ background-position: center;
 }
 
 .address {
-  width: calc((100% - 30px * 2) / 4);
+  width: 231px;
 }
 
 
@@ -717,6 +717,7 @@ background-position: center;
 
 .network-block {
   padding-top: 12px;
+  margin-left: 70px;
 }
 
 .network-link {
